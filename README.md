@@ -22,4 +22,5 @@ Write a description of the history and gameplay of your favorite game in a plain
 
 # References
 - K. M. Frahm, A. D. Chepelianskii, D. L. Shepelyansky (2012) *PageRank of integers*, Journal of Physics A Mathematical and Theoretical 45(40). doi: 10.1088/1751-8113/45/40/405101, https://arxiv.org/abs/1205.6343
+- Page, Lawrence and Brin, Sergey and Motwani, Rajeev and Winograd, Terry (1999) The PageRank Citation Ranking: Bringing Order to the Web. Technical Report. Stanford InfoLab. http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf
 
