@@ -5,7 +5,8 @@ Now in this project we try to create a PageRank order of games.
 
 ## How to contribute
 Do you like to play electronic games? Are you an expert in any of the games?
-Then, you may contribute your knowledge here. This page helps you to get start building the phylogenetic tree of video games.
+Then, you may contribute your knowledge here. This page helps you to get start building the phylogenetic tree of video games. 
+We have also made a [video](https://youtu.be/XK592sUJrqY) that shows the process of building building the phylogenetic tree.
 
 ### "Gamer Experience" trees
 At the moment, we focus on constructing such a graph. 
