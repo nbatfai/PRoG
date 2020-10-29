@@ -10,6 +10,9 @@ Then, you may contribute your knowledge here. This page helps you to get start b
 ### "Gamer Experience" trees
 At the moment, we focus on constructing such a graph. 
 Here the vertices of the graph are labeled with well-known games,  and the edges are the common game experiences between them.
+Games are basically placed on a tiTimelinet https://github.com/nbatfai/PRoG/blob/main/initial_hack/timeline.png?raw=truenext figure.
+![Timeline](https://github.com/nbatfai/PRoG/blob/main/initial_hack/timeline.png?raw=true)
+
 The basic use cases are as follows.
 
 #### Missing game
