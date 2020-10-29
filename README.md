@@ -14,6 +14,24 @@ Games are basically placed on a timeline as it is shown in the next figure.
 
 ![Timeline](https://github.com/nbatfai/PRoG/blob/main/initial_hack/timeline.png?raw=true)
 
+The basis of the construction of phylogenetic tree is the reflexive property of games. For example, the game Space Invaders has the following reflective experiences:
+
+```
+Space Invaders experience 10
+Space Invaders gameplay 10
+Space Invaders game mechanics 10
+```
+The game Asteroids is also characterized by the `Space Invaders experience` property, so the `Space Invaders experience` property is included in its game description.
+
+```
+Space Invaders experience 8
+```
+Accordingly, the edge appears, pointing from the game Space Invaders to the game Asteroids.
+
+![Reflective tree](https://github.com/nbatfai/PRoG/blob/main/initial_hack/reflexion.png?raw=true)
+
+
+
 The basic use cases are as follows.
 
 #### Missing game
