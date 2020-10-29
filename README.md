@@ -34,7 +34,7 @@ Finally, taking into account all the game experiences, we get the result graph.
 
 ![PageRank tree](https://github.com/nbatfai/PRoG/blob/main/initial_hack/gg.png?raw=true)
 
-The one of the tasks is to improve of this graph as a game experts. 
+The one of the tasks is to improve of this graph as a game expert. 
 For example, it seems very well that a reflexive edge is missing between the Donkey Kong and Donkey Kong 3 games.
 
 The basic use cases are as follows.
